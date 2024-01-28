@@ -1,0 +1,42 @@
+body{ 
+background-image: url("result.png");
+background-size: 30%;
+background-repeat: repeat-y repeat-x;
+
+}
+h1{
+    position: sticky ;top:0;
+background-color:#ff7675;
+ font-size: xx-large;
+    color: white;
+    text-align: center;
+  font-family: cursive;
+}
+#book{
+    background-color: #f9e9c5;
+    width: 510px; height: 600px;
+   margin: auto; 
+   border:  5px solid #686fb6;
+   box-sizing: border-box;
+   padding: 2%;
+  
+}
+#text{
+    text-align: center;
+  
+  
+}
+
+.coffee{
+   font-family: cursive;
+   text-decoration-line: none;
+color: brown;
+}
+#child{
+  padding-left: 5%;
+ 
+}
+#girl{
+  float: left;
+}
+
